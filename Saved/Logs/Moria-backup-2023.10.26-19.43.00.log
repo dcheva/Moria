@@ -1,0 +1,290 @@
+﻿Log file open, 10/26/23 22:42:19
+LogMoriaNet: Display: Changed maximal size of networked big data to 10485760 B (10MB.)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../Moria/Content/Paks/Moria-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../Moria/Content/Paks/Moria-WindowsNoEditor.pak.
+LogPakFile: PakFile PrimaryIndexSize=3806478
+LogPakFile: PakFile PathHashIndexSize=1509404
+LogPakFile: PakFile FullDirectoryIndexSize=4228409
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../Moria/Content/Paks/Moria-WindowsNoEditor.pak' (chunk index -1, root '../../../') mounted
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:../../../ File:../../../Moria/Content/Paks/Moria-WindowsNoEditor.pak)
+LogPakFile: OnPakFileMounted2Time == 0.000022
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 19 total threads with 3 sets of task threads.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataRegistry
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VoxelPro
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin FGK
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin GenericGraph
+LogPluginManager: Mounting plugin Wwise
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FGKNavPowerPlaceholder
+LogPluginManager: Mounting plugin EnhancedInput
+LogPluginManager: Mounting plugin CommonUI
+LogPluginManager: Mounting plugin GeometryScripting
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin GeometryFlow
+LogPluginManager: Mounting plugin GameplayInsights
+LogPluginManager: Mounting plugin PowerIK
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin PrefabTool
+LogPluginManager: Mounting plugin ElectronicNodes
+LogPluginManager: Mounting plugin RopeCutting
+LogPluginManager: Mounting plugin HoudiniNiagara
+LogPluginManager: Mounting plugin CascadeToNiagaraConverter
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin FlyingNavSystem
+LogPluginManager: Mounting plugin EOSShared
+LogPluginManager: Mounting plugin OnlineSubsystemEOS
+LogPluginManager: Mounting plugin EOSVoiceChat
+LogPluginManager: Mounting plugin DLSS
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin SequencerScripting
+LogPluginManager: Mounting plugin Gridly
+LogPluginManager: Mounting plugin AssetSearch
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin FSR2
+LogPluginManager: Mounting plugin WebBrowserWidget
+LogPluginManager: Mounting plugin FullBodyIK
+LogPluginManager: Mounting plugin DragonIKPlugin
+LogPluginManager: Mounting plugin Agentic
+LogPluginManager: Mounting plugin DebugPlotter
+LogPluginManager: Mounting plugin MoriaCustomShaders
+LogPluginManager: Mounting plugin PragmaSDK
+LogPluginManager: Mounting plugin MeshModelingToolsetExp
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+[2023.10.26-19.42.20:071][  0]LogConsoleManager: Warning: Setting the console variable 'r.MotionBlurQuality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2023.10.26-19.42.20:071][  0]LogConsoleManager: Warning: Setting the console variable 'r.MotionBlurQuality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2023.10.26-19.42.20:084][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2023.10.26-19.42.20:084][  0]LogMemory: Process Physical Memory: 171.50 MB used, 190.72 MB peak
+[2023.10.26-19.42.20:084][  0]LogMemory: Process Virtual Memory: 174.95 MB used, 184.09 MB peak
+[2023.10.26-19.42.20:084][  0]LogMemory: Physical Memory: 3462.33 MB used,  12839.68 MB free, 16302.01 MB total
+[2023.10.26-19.42.20:084][  0]LogMemory: Virtual Memory: 134202496.00 MB used,  15233.88 MB free, 134217728.00 MB total
+[2023.10.26-19.42.20:492][  0]LogTemp: Warning: Clearing the OS Cache
+[2023.10.26-19.42.20:937][  0]LogCollisionProfile: Warning: Profile (IgnoreOnlyPawn) - Custom Channel Name = 'GameTraceChannel18' hasn't been found
+[2023.10.26-19.42.20:937][  0]LogCollisionProfile: Warning: Profile (OverlapOnlyPawn) - Custom Channel Name = 'GameTraceChannel18' hasn't been found
+[2023.10.26-19.42.20:937][  0]LogCollisionProfile: Warning: Profile (CharacterMesh) - Custom Channel Name = 'GameTraceChannel18' hasn't been found
+[2023.10.26-19.42.20:937][  0]LogCollisionProfile: Warning: Profile (UI) - Custom Channel Name = 'GameTraceChannel18' hasn't been found
+[2023.10.26-19.42.21:071][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__MorKegBase. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.10.26-19.42.21:234][  0]LogOnline: Warning: OSS: EOSPlus failed to find the native OSS!
+[2023.10.26-19.42.24:298][  0]LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Player/BP_FGKMoriaPlayerController: Skipping import FGKCheatsComponent /Script/Moria.Default__MorPlayerController:FGKCheatsComponent, depends on missing native class
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/UI.UI' 'HUD.Sleep.FlavorText.1'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:     Export 17 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:FGKCheatsComponent
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    23   /Script/FGK.FGKCheatsComponent
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    50   /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:FGKCheatsComponent but it hasn't been created yet.
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error: Cannot construct FGKCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:     Export 20 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:MorCheatsComponent
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    28   /Script/Moria.MorCheatsComponent
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    80   /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:MorCheatsComponent but it hasn't been created yet.
+[2023.10.26-19.42.24:298][  0]LogStreaming: Error: Cannot construct MorCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.Topaz.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.FloorsStairs'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.Floor'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.WallsDoors'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.WallWithDoor'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.WallWithWindow'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.ShortWalls'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.ShortWideWalls'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.Garnet.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.Jade.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.LapisLazuli.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.Amber.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.Onyx.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.Iolite.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.Quartz.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__BP_Keg_C. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.Amber.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.Citrine.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:298][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.CopperOre.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.GoldOre.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.SilverOre.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.MoonStone.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.Salt.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.Resin.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.SunStone.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.MithrilOre.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.TinOre.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Items.PreciousGem.Emerald.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.Diamond.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.Ruby.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.Sapphire.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.Amethyst.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.Anorin.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.BlackDiamond.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.PinkOpal.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.RedBeryl.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Armor.GlitteringCaves.Shield.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:299][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Armor.GlitteringCaves.Shield.Description'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:363][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Weapons.Sword.DarkAlloy.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:363][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Weapons.Sword.DarkAlloy.Description'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:364][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Weapons.Sword.DarkAlloyShort.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:364][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Weapons.Sword.DarkAlloyShort.Description'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:838][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Interactables.Interactables' 'Constructions.ForgeAdvancedUpgrade.Name'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.24:840][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Interactables.Interactables' 'Constructions.ForgeAdvancedUpgrade.Description'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.25:393][  0]LogStreaming: Error: Couldn't find file for package /Script/AssetTools requested by async loading code. NameToLoad: /Script/AssetTools
+[2023.10.26-19.42.25:393][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2023.10.26-19.42.25:393][  0]LogStreaming: Error: Found 1 dependent packages...
+[2023.10.26-19.42.25:393][  0]LogStreaming: Error:   /Game/FluidNinjaLive/Core/NinjaLiveGUI
+[2023.10.26-19.42.25:393][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/Core/NinjaLiveGUI.NinjaLiveGUI_C:ExecuteUbergraph_NinjaLiveGUI:K2Node_MakeStruct_AssetRenameData'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-19.42.25:393][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/Core/NinjaLiveGUI.NinjaLiveGUI_C:ExecuteUbergraph_NinjaLiveGUI:K2Node_MakeArray_Array_4.K2Node_MakeArray_Array_4'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-19.42.25:393][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/NinjaLive_PresetManager.NinjaLive_PresetManager_C:MarkForSave_UE426_BugWorkaround:K2Node_MakeStruct_AssetRenameData'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-19.42.25:393][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/NinjaLive_PresetManager.NinjaLive_PresetManager_C:MarkForSave_UE426_BugWorkaround:K2Node_MakeArray_Array.K2Node_MakeArray_Array'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-19.42.25:393][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Zones.Names.NativeOrcTown1'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.25:393][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.MithrilLode'. Did you forget to add a string table redirector?
+[2023.10.26-19.42.25:394][  0]MorUIGraphicOptions: Error: UMorFullscreenOption::SetString: (WindowedFullscreen) is not localized and/or failed to restore EWindowMode::Type.
+[2023.10.26-19.42.25:395][  0]LogDLSSBlueprint: Error: SetDLSSMode should not be called before PostEngineInit
+[2023.10.26-19.42.25:395][  0]r.BasePassForceOutputsVelocity = "0"
+[2023.10.26-19.42.25:395][  0]LogDLSSBlueprint: Error: SetDLSSMode should not be called before PostEngineInit
+[2023.10.26-19.42.25:398][  0]LogSlate: Warning: FontCache flush requested. Reason: Culture for localization was changed
+[2023.10.26-19.42.25:398][  0]LogSlate: Warning: FontCache flush requested. Reason: Culture for localization was changed
+[2023.10.26-19.42.25:458][  0]LogDLSS: Warning: NGX Application ID not specified, using the Project ID by default.
+[2023.10.26-19.42.25:887][  0]LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Player/BP_FGKMoriaPlayerController: Skipping import FGKCheatsComponent /Script/Moria.Default__MorPlayerController:FGKCheatsComponent, depends on missing native class
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:     Export 17 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:FGKCheatsComponent
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    23   /Script/FGK.FGKCheatsComponent
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    50   /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:FGKCheatsComponent but it hasn't been created yet.
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error: Cannot construct FGKCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:     Export 20 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:MorCheatsComponent
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    28   /Script/Moria.MorCheatsComponent
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    80   /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:MorCheatsComponent but it hasn't been created yet.
+[2023.10.26-19.42.25:933][  0]LogStreaming: Error: Cannot construct MorCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-19.42.25:965][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/NinjaLive_PresetManager.NinjaLive_PresetManager_C:MarkForSave_UE426_BugWorkaround:K2Node_MakeStruct_AssetRenameData'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-19.42.25:965][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/NinjaLive_PresetManager.NinjaLive_PresetManager_C:MarkForSave_UE426_BugWorkaround:K2Node_MakeArray_Array.K2Node_MakeArray_Array'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-19.42.25:989][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/Core/NinjaLiveGUI.NinjaLiveGUI_C:ExecuteUbergraph_NinjaLiveGUI:K2Node_MakeStruct_AssetRenameData'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-19.42.25:989][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/Core/NinjaLiveGUI.NinjaLiveGUI_C:ExecuteUbergraph_NinjaLiveGUI:K2Node_MakeArray_Array_4.K2Node_MakeArray_Array_4'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-19.42.49:882][  0]LogRawInputWindows: Warning: Found device 5 devices
+[2023.10.26-19.42.49:882][  0]LogRawInputWindows: Warning: Found device 5 devices
+[2023.10.26-19.42.49:910][  1]LogOnlineFriend: Warning: OSS: [FUserManagerEOS::QueryBlockedPlayers] This method is not supported.
+[2023.10.26-19.42.49:910][  1]LogOnline: Error: UMorGameSessionManager::OSSOnLoginStatusChanged [LocalUserNum: 0][OldStatus: NotLoggedIn][NewStatus: LoggedIn][NewId: 1638|1638]
+[2023.10.26-19.42.49:910][  1]LogOnline: Error: OSS: QueryPresence() for user () failed with result code (EOS_InvalidUser)
+[2023.10.26-19.42.50:251][  1]LogFSR2: Error: FSR2 Temporal Upscaler using D3D api
+[2023.10.26-19.42.51:066][  5]LogPragma: Warning: FPragmaBackendTypeConverter::LoadBackendIds -- Could not find generated backend type data for some backend types. May need to regenerate types from the platform build. Missing:
+    NewsFeedRpc.PlayerGetNewsFeedV2Request
+    NewsFeedRpc.PlayerGetNewsFeedV2Response
+[2023.10.26-19.42.51:101][  6]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2023.10.26-19.42.52:036][ 11]LogPragma: Error: FPragmaHttp::HttpRequest(https://internalplaytest.moria.freerange.pragmaengine.com:11000/v1/account/authenticateorcreatev2) failed, error: EPragma_SdkError::Unauthorized. Server returned http status code: 403, payload: {"requestId":3296677,"status":"SERVICE_ERROR","error":"AccountService_Unauthorized","traceId":"00000000-0000-0000-0000-000000000000","debugDetails":["pragma.PragmaException: AccountService_Unauthorized: Not authorized.\n\tat pragma.account.EpicIdentityProviderPlugin.validate(EpicIdentityProviderPlugin.kt:64)\n\tat pragma.account.EpicIdentityProviderPlugin$validate$1.invokeSuspend(EpicIdentityProviderPlugin.kt)\n\tat kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)\n\tat kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)\n\tat java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)\n\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n\tat java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)\n\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)\n\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)\n\tat java.base/java.lang.Thread.run(Thread.java:833)\n"]}
+[2023.10.26-19.42.52:036][ 11]LogPragma: Error: FPlayer::LogIn Failed to authenticate, error code: EPragma_SdkError::Unauthorized
+[2023.10.26-19.42.52:187][ 12]LogEOSSDK: Warning: LogEOSEcom: Purchase flow is disabled due to overlay setup failure (EOS_NotConfigured).
+[2023.10.26-19.42.52:188][ 12]LogEOSSDK: Warning: LogEOSUI: Social overlay is disabled due to overlay setup failure (EOS_UnexpectedError).
+[2023.10.26-19.42.54:251][ 25]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-19.42.54:251][ 25]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-19.42.54:386][ 25]LogConsoleManager: Warning: Setting the console variable 'r.MotionBlurQuality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2023.10.26-19.42.57:455][ 50]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-19.42.57:529][ 51]Slate.EnableSyntheticCursorMoves = "false"
+[2023.10.26-19.42.59:280][ 55]LogRHI: Warning: FShaderPipelineCache completed 4236 tasks in 0.03s (9.09s wall time since intial open).
+[2023.10.26-19.43.00:314][ 55]Log file closed, 10/26/23 22:43:00

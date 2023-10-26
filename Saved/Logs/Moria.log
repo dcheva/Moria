@@ -1,0 +1,585 @@
+﻿Log file open, 10/26/23 23:52:02
+LogMoriaNet: Display: Changed maximal size of networked big data to 10485760 B (10MB.)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../Moria/Content/Paks/Moria-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../Moria/Content/Paks/Moria-WindowsNoEditor.pak.
+LogPakFile: PakFile PrimaryIndexSize=3806478
+LogPakFile: PakFile PathHashIndexSize=1509404
+LogPakFile: PakFile FullDirectoryIndexSize=4228409
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../Moria/Content/Paks/Moria-WindowsNoEditor.pak' (chunk index -1, root '../../../') mounted
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:../../../ File:../../../Moria/Content/Paks/Moria-WindowsNoEditor.pak)
+LogPakFile: OnPakFileMounted2Time == 0.000022
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 19 total threads with 3 sets of task threads.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataRegistry
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VoxelPro
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin FGK
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin GenericGraph
+LogPluginManager: Mounting plugin Wwise
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FGKNavPowerPlaceholder
+LogPluginManager: Mounting plugin EnhancedInput
+LogPluginManager: Mounting plugin CommonUI
+LogPluginManager: Mounting plugin GeometryScripting
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin GeometryFlow
+LogPluginManager: Mounting plugin GameplayInsights
+LogPluginManager: Mounting plugin PowerIK
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin PrefabTool
+LogPluginManager: Mounting plugin ElectronicNodes
+LogPluginManager: Mounting plugin RopeCutting
+LogPluginManager: Mounting plugin HoudiniNiagara
+LogPluginManager: Mounting plugin CascadeToNiagaraConverter
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin FlyingNavSystem
+LogPluginManager: Mounting plugin EOSShared
+LogPluginManager: Mounting plugin OnlineSubsystemEOS
+LogPluginManager: Mounting plugin EOSVoiceChat
+LogPluginManager: Mounting plugin DLSS
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin SequencerScripting
+LogPluginManager: Mounting plugin Gridly
+LogPluginManager: Mounting plugin AssetSearch
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin FSR2
+LogPluginManager: Mounting plugin WebBrowserWidget
+LogPluginManager: Mounting plugin FullBodyIK
+LogPluginManager: Mounting plugin DragonIKPlugin
+LogPluginManager: Mounting plugin Agentic
+LogPluginManager: Mounting plugin DebugPlotter
+LogPluginManager: Mounting plugin MoriaCustomShaders
+LogPluginManager: Mounting plugin PragmaSDK
+LogPluginManager: Mounting plugin MeshModelingToolsetExp
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+[2023.10.26-20.52.03:106][  0]LogConsoleManager: Warning: Setting the console variable 'r.MotionBlurQuality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2023.10.26-20.52.03:106][  0]LogConsoleManager: Warning: Setting the console variable 'r.MotionBlurQuality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2023.10.26-20.52.03:111][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2023.10.26-20.52.03:111][  0]LogMemory: Process Physical Memory: 161.89 MB used, 185.29 MB peak
+[2023.10.26-20.52.03:111][  0]LogMemory: Process Virtual Memory: 166.23 MB used, 183.83 MB peak
+[2023.10.26-20.52.03:111][  0]LogMemory: Physical Memory: 3472.88 MB used,  12829.12 MB free, 16302.01 MB total
+[2023.10.26-20.52.03:111][  0]LogMemory: Virtual Memory: 134202376.00 MB used,  15348.71 MB free, 134217728.00 MB total
+[2023.10.26-20.52.03:393][  0]LogTemp: Warning: Clearing the OS Cache
+[2023.10.26-20.52.03:778][  0]LogCollisionProfile: Warning: Profile (IgnoreOnlyPawn) - Custom Channel Name = 'GameTraceChannel18' hasn't been found
+[2023.10.26-20.52.03:778][  0]LogCollisionProfile: Warning: Profile (OverlapOnlyPawn) - Custom Channel Name = 'GameTraceChannel18' hasn't been found
+[2023.10.26-20.52.03:778][  0]LogCollisionProfile: Warning: Profile (CharacterMesh) - Custom Channel Name = 'GameTraceChannel18' hasn't been found
+[2023.10.26-20.52.03:778][  0]LogCollisionProfile: Warning: Profile (UI) - Custom Channel Name = 'GameTraceChannel18' hasn't been found
+[2023.10.26-20.52.03:879][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__MorKegBase. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.10.26-20.52.03:955][  0]LogOnline: Warning: OSS: EOSPlus failed to find the native OSS!
+[2023.10.26-20.52.06:422][  0]LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Player/BP_FGKMoriaPlayerController: Skipping import FGKCheatsComponent /Script/Moria.Default__MorPlayerController:FGKCheatsComponent, depends on missing native class
+[2023.10.26-20.52.06:422][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__BP_Keg_C. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error:     Export 17 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:FGKCheatsComponent
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    23   /Script/FGK.FGKCheatsComponent
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    50   /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:FGKCheatsComponent but it hasn't been created yet.
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error: Cannot construct FGKCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error:     Export 20 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:MorCheatsComponent
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-20.52.06:422][  0]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.52.06:423][  0]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-20.52.06:423][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    28   /Script/Moria.MorCheatsComponent
+[2023.10.26-20.52.06:423][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    80   /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-20.52.06:423][  0]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.52.06:423][  0]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:MorCheatsComponent but it hasn't been created yet.
+[2023.10.26-20.52.06:423][  0]LogStreaming: Error: Cannot construct MorCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/UI.UI' 'HUD.Sleep.FlavorText.1'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.Amber.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.Citrine.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.CopperOre.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.LapisLazuli.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.GoldOre.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.Quartz.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.SilverOre.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.Onyx.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.MoonStone.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.Salt.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.Resin.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.SunStone.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.MithrilOre.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Ores.TinOre.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.Garnet.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Items.PreciousGem.Emerald.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.Diamond.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.Ruby.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.Sapphire.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.Amethyst.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.Anorin.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.BlackDiamond.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.PreciousGem.PinkOpal.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.Jade.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.RedBeryl.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Item.SemiPreciousGem.Iolite.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Armor.GlitteringCaves.Shield.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:423][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Armor.GlitteringCaves.Shield.Description'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:469][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Weapons.Sword.DarkAlloy.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:469][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Weapons.Sword.DarkAlloy.Description'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:470][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Weapons.Sword.DarkAlloyShort.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:470][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Items.Items' 'Weapons.Sword.DarkAlloyShort.Description'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:888][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Interactables.Interactables' 'Constructions.ForgeAdvancedUpgrade.Name'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.06:889][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/Interactables.Interactables' 'Constructions.ForgeAdvancedUpgrade.Description'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.07:346][  0]LogStreaming: Error: Couldn't find file for package /Script/AssetTools requested by async loading code. NameToLoad: /Script/AssetTools
+[2023.10.26-20.52.07:346][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2023.10.26-20.52.07:346][  0]LogStreaming: Error: Found 1 dependent packages...
+[2023.10.26-20.52.07:346][  0]LogStreaming: Error:   /Game/FluidNinjaLive/Core/NinjaLiveGUI
+[2023.10.26-20.52.07:346][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/NinjaLive_PresetManager.NinjaLive_PresetManager_C:MarkForSave_UE426_BugWorkaround:K2Node_MakeStruct_AssetRenameData'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.52.07:346][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/NinjaLive_PresetManager.NinjaLive_PresetManager_C:MarkForSave_UE426_BugWorkaround:K2Node_MakeArray_Array.K2Node_MakeArray_Array'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.52.07:346][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/Core/NinjaLiveGUI.NinjaLiveGUI_C:ExecuteUbergraph_NinjaLiveGUI:K2Node_MakeStruct_AssetRenameData'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.52.07:346][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/Core/NinjaLiveGUI.NinjaLiveGUI_C:ExecuteUbergraph_NinjaLiveGUI:K2Node_MakeArray_Array_4.K2Node_MakeArray_Array_4'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.52.07:346][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Zones.Names.NativeOrcTown1'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.07:346][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.MithrilLode'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.07:346][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.FloorsStairs'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.07:347][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.Floor'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.07:347][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.WallsDoors'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.07:347][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.WallWithDoor'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.07:347][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.WallWithWindow'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.07:347][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.ShortWalls'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.07:347][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/CategoryTags.CategoryTags' 'Category.Construction.ShortWideWalls'. Did you forget to add a string table redirector?
+[2023.10.26-20.52.07:347][  0]MorUIGraphicOptions: Error: UMorFullscreenOption::SetString: (WindowedFullscreen) is not localized and/or failed to restore EWindowMode::Type.
+[2023.10.26-20.52.07:390][  0]LogDLSS: Warning: NGX Application ID not specified, using the Project ID by default.
+[2023.10.26-20.52.07:702][  0]r.BasePassForceOutputsVelocity = "0"
+[2023.10.26-20.52.07:705][  0]LogSlate: Warning: FontCache flush requested. Reason: Culture for localization was changed
+[2023.10.26-20.52.07:705][  0]LogSlate: Warning: FontCache flush requested. Reason: Culture for localization was changed
+[2023.10.26-20.52.07:734][  0]LogConsoleManager: Warning: Setting the console variable 'r.MotionBlurQuality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2023.10.26-20.52.07:866][  0]LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Player/BP_FGKMoriaPlayerController: Skipping import FGKCheatsComponent /Script/Moria.Default__MorPlayerController:FGKCheatsComponent, depends on missing native class
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:     Export 17 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:FGKCheatsComponent
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    23   /Script/FGK.FGKCheatsComponent
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    50   /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:FGKCheatsComponent but it hasn't been created yet.
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error: Cannot construct FGKCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:     Export 20 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:MorCheatsComponent
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    28   /Script/Moria.MorCheatsComponent
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    80   /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:MorCheatsComponent but it hasn't been created yet.
+[2023.10.26-20.52.07:906][  0]LogStreaming: Error: Cannot construct MorCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-20.52.07:937][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/NinjaLive_PresetManager.NinjaLive_PresetManager_C:MarkForSave_UE426_BugWorkaround:K2Node_MakeStruct_AssetRenameData'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.52.07:937][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/NinjaLive_PresetManager.NinjaLive_PresetManager_C:MarkForSave_UE426_BugWorkaround:K2Node_MakeArray_Array.K2Node_MakeArray_Array'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.52.07:960][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/Core/NinjaLiveGUI.NinjaLiveGUI_C:ExecuteUbergraph_NinjaLiveGUI:K2Node_MakeStruct_AssetRenameData'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.52.07:960][  0]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/Core/NinjaLiveGUI.NinjaLiveGUI_C:ExecuteUbergraph_NinjaLiveGUI:K2Node_MakeArray_Array_4.K2Node_MakeArray_Array_4'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.52.32:570][  0]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.32:570][  0]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.32:587][  0]LogRawInputWindows: Warning: Found device 5 devices
+[2023.10.26-20.52.32:587][  0]LogRawInputWindows: Warning: Found device 5 devices
+[2023.10.26-20.52.32:623][  1]LogOnlineFriend: Warning: OSS: [FUserManagerEOS::QueryBlockedPlayers] This method is not supported.
+[2023.10.26-20.52.32:624][  1]LogOnline: Error: UMorGameSessionManager::OSSOnLoginStatusChanged [LocalUserNum: 0][OldStatus: NotLoggedIn][NewStatus: LoggedIn][NewId: 1638|1638]
+[2023.10.26-20.52.32:624][  1]LogOnline: Error: OSS: QueryPresence() for user () failed with result code (EOS_InvalidUser)
+[2023.10.26-20.52.32:700][  1]LogFSR2: Error: FSR2 Temporal Upscaler using D3D api
+[2023.10.26-20.52.32:724][  1]LogConsoleManager: Warning: Setting the console variable 'r.BasePassForceOutputsVelocity' with 'SetByCode' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2023.10.26-20.52.33:440][ 32]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2023.10.26-20.52.33:626][ 42]LogPragma: Warning: FPragmaBackendTypeConverter::LoadBackendIds -- Could not find generated backend type data for some backend types. May need to regenerate types from the platform build. Missing:
+    NewsFeedRpc.PlayerGetNewsFeedV2Request
+    NewsFeedRpc.PlayerGetNewsFeedV2Response
+[2023.10.26-20.52.33:841][ 53]LogEOSSDK: Warning: LogEOSEcom: Purchase flow is disabled due to overlay setup failure (EOS_NotConfigured).
+[2023.10.26-20.52.33:841][ 53]LogEOSSDK: Warning: LogEOSUI: Social overlay is disabled due to overlay setup failure (EOS_UnexpectedError).
+[2023.10.26-20.52.34:126][ 66]Slate.EnableSyntheticCursorMoves = "false"
+[2023.10.26-20.52.34:383][ 82]LogPragma: Error: FPragmaHttp::HttpRequest(https://internalplaytest.moria.freerange.pragmaengine.com:11000/v1/account/authenticateorcreatev2) failed, error: EPragma_SdkError::Unauthorized. Server returned http status code: 403, payload: {"requestId":3518218,"status":"SERVICE_ERROR","error":"AccountService_Unauthorized","traceId":"00000000-0000-0000-0000-000000000000","debugDetails":["pragma.PragmaException: AccountService_Unauthorized: Not authorized.\n\tat pragma.account.EpicIdentityProviderPlugin.validate(EpicIdentityProviderPlugin.kt:64)\n\tat pragma.account.EpicIdentityProviderPlugin$validate$1.invokeSuspend(EpicIdentityProviderPlugin.kt)\n\tat kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)\n\tat kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)\n\tat java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)\n\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n\tat java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)\n\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)\n\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)\n\tat java.base/java.lang.Thread.run(Thread.java:833)\n"]}
+[2023.10.26-20.52.34:383][ 82]LogPragma: Error: FPlayer::LogIn Failed to authenticate, error code: EPragma_SdkError::Unauthorized
+[2023.10.26-20.52.34:467][ 87]LogRHI: Warning: FShaderPipelineCache completed 4236 tasks in 0.02s (1.88s wall time since intial open).
+[2023.10.26-20.52.34:982][117]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.35:583][153]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.37:833][288]Slate.EnableSyntheticCursorMoves = "false"
+[2023.10.26-20.52.38:618][316]LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Player/BP_FGKMoriaPlayerController: Skipping import FGKCheatsComponent /Script/Moria.Default__MorPlayerController:FGKCheatsComponent, depends on missing native class
+[2023.10.26-20.52.38:618][316]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:     Export 17 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:FGKCheatsComponent
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:         Dep S_BEFORE_C Import    23   /Script/FGK.FGKCheatsComponent
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:         Dep S_BEFORE_C Import    50   /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.52.38:618][316]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:FGKCheatsComponent but it hasn't been created yet.
+[2023.10.26-20.52.38:618][316]LogStreaming: Error: Cannot construct FGKCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-20.52.38:618][316]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:     Export 20 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:MorCheatsComponent
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:         Dep S_BEFORE_C Import    28   /Script/Moria.MorCheatsComponent
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:         Dep S_BEFORE_C Import    80   /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-20.52.38:618][316]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.52.38:618][316]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:MorCheatsComponent but it hasn't been created yet.
+[2023.10.26-20.52.38:618][316]LogStreaming: Error: Cannot construct MorCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-20.52.38:618][316]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/NinjaLive_PresetManager.NinjaLive_PresetManager_C:MarkForSave_UE426_BugWorkaround:K2Node_MakeStruct_AssetRenameData'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.52.38:618][316]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/NinjaLive_PresetManager.NinjaLive_PresetManager_C:MarkForSave_UE426_BugWorkaround:K2Node_MakeArray_Array.K2Node_MakeArray_Array'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.52.38:618][316]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/Core/NinjaLiveGUI.NinjaLiveGUI_C:ExecuteUbergraph_NinjaLiveGUI:K2Node_MakeStruct_AssetRenameData'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.52.38:618][316]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/Core/NinjaLiveGUI.NinjaLiveGUI_C:ExecuteUbergraph_NinjaLiveGUI:K2Node_MakeArray_Array_4.K2Node_MakeArray_Array_4'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.52.38:639][316]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.10.26-20.52.38:640][316]LogGameState: Warning: Manager BP_AIPopulationManager_C at index [5] does not replicate!  This will cause null references on clients.
+[2023.10.26-20.52.38:640][316]LogGameState: Warning: Manager BP_AIBehaviorPointManager_C at index [10] does not replicate!  This will cause null references on clients.
+[2023.10.26-20.52.38:640][316]LogGameState: Warning: Manager BP_AIPatrolManager_C at index [27] does not replicate!  This will cause null references on clients.
+[2023.10.26-20.52.38:641][316]LogStreamableManager: Warning: RequestAsyncLoad called with both valid and null assets, null assets removed from /Game/FX/ArchitectureBreakables/Niagara/NS_Hit_MetalOnStone.NS_Hit_MetalOnStone, /Game/FX/ArchitectureBreakables/Niagara/NS_Hit_Wood_1.NS_Hit_Wood_1, /Game/FX/dirt/particles/NS_impact_FootDirt.NS_impact_FootDirt, /Game/FX/CombatFX/Combat_HitFX/StandardHitFX/Niagara/NS_Hit_Metal_1.NS_Hit_Metal_1, /Game/FX/ArchitectureBreakables/Niagara/NS_Hit_Glass_1.NS_Hit_Glass_1, /Game/FX/CombatFX/Combat_HitFX/StandardHitFX/Niagara/NS_Hit_armor_Leather.NS_Hit_armor_Leather, /Game/FX/WaterInteraction/Niagara/NS_CamsWater_Splash1.NS_CamsWater_Splash1, /Game/FX/ArchitectureBreakables/Niagara/NS_Hit_Ceramic.NS_Hit_Ceramic, /Game/FX/ArchitectureBreakables/Niagara/NS_Hit_Gem_1.NS_Hit_Gem_1, /Game/FX/Locomotion_FX/NS_Locomotion_Stone.NS_Locomotion_Stone, /Game/FX/CombatFX/Combat_HitFX/StandardHitFX/Niagara/NS_Hit_armor_Mithril.NS_Hit_armor_Mithril, /Game/FX/EnemyFX/Niagara/NS_SpiderSplat.NS_SpiderSplat, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Bludgeon_Dwarf.NS_DamageType_Bludgeon_Dwarf, /Game/FX/CombatFX/Combat_HitFX/HitEffectiveness_FX/Niagara/NS_IneffectiveHit.NS_IneffectiveHit, , /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Slashing_Dwarf.NS_DamageType_Slashing_Dwarf, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Slashing_Orc.NS_DamageType_Slashing_Orc, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Slashing_Beast.NS_DamageType_Slashing_Beast, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Bludgeon_Orc.NS_DamageType_Bludgeon_Orc, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Bludgeon_Beast.NS_DamageType_Bludgeon_Beast, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Pierce_Dwarf.NS_DamageType_Pierce_Dwarf, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Pierce_Orc.NS_DamageType_Pierce_Orc, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Pierce_Beast.NS_DamageType_Pierce_Beast, /Game/FX/CombatFX/Unique_Attacks/Niagara/NS_AntiDragonBurst.NS_AntiDragonBurst, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Cold.NS_DamageType_Cold, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/BPs/BP_HitLight_Ice.BP_HitLight_Ice_C, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Corrosive.NS_DamageType_Corrosive, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Fire.NS_DamageType_Fire, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/BPs/BP_HitLight_Fire.BP_HitLight_Fire_C, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Light.NS_DamageType_Light, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/BPs/BP_HitLight_LightAttk.BP_HitLight_LightAttk_C, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Poison.NS_DamageType_Poison, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Shadow.NS_DamageType_Shadow, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/BPs/BP_HitLight_Shadow.BP_HitLight_Shadow_C, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Thunder.NS_DamageType_Thunder, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/BPs/BP_HitLight_Thunder.BP_HitLight_Thunder_C, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Stone/Impacts/fx_env_obj_destruction_stone_natural_impact_play.fx_env_obj_destruction_stone_natural_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Wood/Impacts/fx_env_obj_destruction_wood_hard_impact_play.fx_env_obj_destruction_wood_hard_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/fx_plr_wpn_hammerimpact_play.fx_plr_wpn_hammerimpact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Bone/Impacts/fx_env_obj_destruction_bone_impact_play.fx_env_obj_destruction_bone_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Ceramic/Impacts/fx_env_obj_destruction_ceramic_impact_play.fx_env_obj_destruction_ceramic_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Stone/Impacts/fx_env_obj_destruction_stone_brick_impact_play.fx_env_obj_destruction_stone_brick_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Stone/Impacts/fx_env_obj_destruction_stone_worked_impact_play.fx_env_obj_destruction_stone_worked_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Wood/Impacts/fx_env_obj_destruction_wood_rotting_impact_play.fx_env_obj_destruction_wood_rotting_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Wood/Impacts/fx_env_obj_destruction_wood_heavy_impact_play.fx_env_obj_destruction_wood_heavy_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Wood/Impacts/fx_env_obj_destruction_wood_tree_impact_play.fx_env_obj_destruction_wood_tree_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Mushroom/Impacts/fx_env_obj_destruction_mushroom_impact_play.fx_env_obj_destruction_mushroom_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Dung/Impacts/fx_env_obj_breakable_dung_impact_play.fx_env_obj_breakable_dung_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Building/fx_plr_bld_treasure_diggin_pickaxe.fx_plr_bld_treasure_diggin_pickaxe, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/1st_Pass/fx_env_obj_destruction_stone_heavy_play.fx_env_obj_destruction_stone_heavy_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/1st_Pass/fx_env_obj_destruction_wood_heavy_play.fx_env_obj_destruction_wood_heavy_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Stone/Impacts/fx_env_obj_destruction_stone_natural_impact_heavy_play.fx_env_obj_destruction_stone_natural_impact_heavy_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Stone/Impacts/fx_env_obj_destruction_stone_brick_impact_heavy_play.fx_env_obj_destruction_stone_brick_impact_heavy_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Stone/Impacts/fx_env_obj_destruction_stone_worked_impact_heavy_play.fx_env_obj_destruction_stone_worked_impact_heavy_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Wood/Impacts/fx_env_obj_destruction_wood_hard_impact_heavy_play.fx_env_obj_destruction_wood_hard_impact_heavy_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Wood/Impacts/fx_env_obj_destruction_wood_rotting_heavy_impact_play.fx_env_obj_destruction_wood_rotting_heavy_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_ice_play.fx_plr_wpn_elemental_impact_ice_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_corrosive_play.fx_plr_wpn_elemental_impact_corrosive_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_fire_play.fx_plr_wpn_elemental_impact_fire_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_light_play.fx_plr_wpn_elemental_impact_light_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_poison_play.fx_plr_wpn_elemental_impact_poison_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_shadow_play.fx_plr_wpn_elemental_impact_shadow_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_thunder_play.fx_plr_wpn_elemental_impact_thunder_play!
+[2023.10.26-20.52.38:642][316]LogGameState: Warning: Manager BP_AISpawnManager_C at index [35] does not replicate!  This will cause null references on clients.
+[2023.10.26-20.52.38:642][316]LogMoria: Warning: Unable to find a Voxel World in the level
+[2023.10.26-20.52.39:340][352]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.39:757][377]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.40:724][435]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.40:757][437]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.41:757][497]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.42:458][539]Slate.EnableSyntheticCursorMoves = "false"
+[2023.10.26-20.52.43:040][574]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.44:930][687]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.44:931][687]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.44:936][687]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::DecorationColors Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.52.44:936][687]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_BeardDecorationColors.DT_CC_BeardDecorationColors'.
+[2023.10.26-20.52.44:939][687]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::DecorationColors Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.52.44:939][687]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_BeardDecorationColors.DT_CC_BeardDecorationColors'.
+[2023.10.26-20.52.44:942][687]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::DecorationColors Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.52.44:942][687]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_BeardDecorationColors.DT_CC_BeardDecorationColors'.
+[2023.10.26-20.52.44:945][687]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::DecorationColors Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.52.44:945][687]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_BeardDecorationColors.DT_CC_BeardDecorationColors'.
+[2023.10.26-20.52.44:948][687]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::DecorationColors Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.52.44:948][687]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_BeardDecorationColors.DT_CC_BeardDecorationColors'.
+[2023.10.26-20.52.44:951][687]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::DecorationColors Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.52.44:951][687]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_BeardDecorationColors.DT_CC_BeardDecorationColors'.
+[2023.10.26-20.52.44:954][687]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::DecorationColors Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.52.44:954][687]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_BeardDecorationColors.DT_CC_BeardDecorationColors'.
+[2023.10.26-20.52.44:957][687]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::DecorationColors Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.52.44:957][687]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_BeardDecorationColors.DT_CC_BeardDecorationColors'.
+[2023.10.26-20.52.44:957][687]LogMoriaCharacterCreation: Warning: SetCustomizationsInternal: different customization is set while this loads, ignoring callback.
+[2023.10.26-20.52.50:251][  3]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::DecorationColors Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.52.50:251][  3]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_BeardDecorationColors.DT_CC_BeardDecorationColors'.
+[2023.10.26-20.52.50:254][  3]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.50:598][ 23]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.52.50:599][ 23]PIE: Warning: The widget 'WBP_CharacterCreatorMain_C' was already added to the screen.
+[2023.10.26-20.52.55:685][329]LogAbilitySystem: Warning: GetAbilitySystemComponentFromActor called on BP_DwarfCustomizationCharacterMannequinSelection that is not IAbilitySystemInterface. This slow!
+[2023.10.26-20.52.57:519][439]LogAbilitySystem: Warning: GetAbilitySystemComponentFromActor called on BP_DwarfCustomizationCharacterMannequinSelection that is not IAbilitySystemInterface. This slow!
+[2023.10.26-20.52.58:398][491]LogAbilitySystem: Warning: GetAbilitySystemComponentFromActor called on BP_DwarfCustomizationCharacterMannequinSelection that is not IAbilitySystemInterface. This slow!
+[2023.10.26-20.53.18:707][709]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.23:786][ 14]Slate.EnableSyntheticCursorMoves = "false"
+[2023.10.26-20.53.30:720][430]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.31:839][497]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.31:840][497]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.31:840][497]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.31:843][497]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.32:172][517]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.36:173][757]Slate.EnableSyntheticCursorMoves = "false"
+[2023.10.26-20.53.37:090][812]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.37:423][832]Slate.EnableSyntheticCursorMoves = "false"
+[2023.10.26-20.53.37:440][833]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.37:891][860]Slate.EnableSyntheticCursorMoves = "false"
+[2023.10.26-20.53.38:140][875]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.38:474][895]Slate.EnableSyntheticCursorMoves = "false"
+[2023.10.26-20.53.39:007][927]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.50:942][643]Slate.EnableSyntheticCursorMoves = "false"
+[2023.10.26-20.53.50:942][643]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.51:059][650]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.52:476][735]Slate.EnableSyntheticCursorMoves = "false"
+[2023.10.26-20.53.52:726][750]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.53.55:117][893]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.03:132][374]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.04:766][472]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.05:882][539]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.08:199][678]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.08:949][723]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.10:467][814]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.11:851][897]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.13:034][968]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.14:217][ 39]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.15:252][101]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.16:284][163]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.17:219][219]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.17:900][260]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.22:200][518]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.22:531][538]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.25:118][693]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.25:118][693]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.28:300][884]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.28:300][884]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.34:751][271]LogMorUIFocusManager: Warning: Desired widget 'WorldSelection' which trying to be focused doesn't implements MorUIFocusWidgetInterface!
+[2023.10.26-20.54.34:751][271]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.38:689][476]LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Player/BP_FGKMoriaPlayerController: Skipping import FGKCheatsComponent /Script/Moria.Default__MorPlayerController:FGKCheatsComponent, depends on missing native class
+[2023.10.26-20.54.38:689][476]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:     Export 17 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:FGKCheatsComponent
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:         Dep S_BEFORE_C Import    23   /Script/FGK.FGKCheatsComponent
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:         Dep S_BEFORE_C Import    50   /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.54.38:689][476]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:FGKCheatsComponent but it hasn't been created yet.
+[2023.10.26-20.54.38:689][476]LogStreaming: Error: Cannot construct FGKCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-20.54.38:689][476]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:     Export 20 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:MorCheatsComponent
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:         Dep S_BEFORE_C Import    28   /Script/Moria.MorCheatsComponent
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:         Dep S_BEFORE_C Import    80   /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-20.54.38:689][476]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.54.38:689][476]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:MorCheatsComponent but it hasn't been created yet.
+[2023.10.26-20.54.38:689][476]LogStreaming: Error: Cannot construct MorCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-20.54.38:689][476]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/Core/NinjaLiveGUI.NinjaLiveGUI_C:ExecuteUbergraph_NinjaLiveGUI:K2Node_MakeStruct_AssetRenameData'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.54.38:689][476]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/Core/NinjaLiveGUI.NinjaLiveGUI_C:ExecuteUbergraph_NinjaLiveGUI:K2Node_MakeArray_Array_4.K2Node_MakeArray_Array_4'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.54.38:689][476]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/NinjaLive_PresetManager.NinjaLive_PresetManager_C:MarkForSave_UE426_BugWorkaround:K2Node_MakeStruct_AssetRenameData'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.54.38:689][476]LogProperty: Error: Struct type unknown for property 'StructProperty /Game/FluidNinjaLive/NinjaLive_PresetManager.NinjaLive_PresetManager_C:MarkForSave_UE426_BugWorkaround:K2Node_MakeArray_Array.K2Node_MakeArray_Array'; perhaps the USTRUCT() was renamed or deleted?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.Default'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.WesternTown'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.ElvenQuarter'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.WesternMines'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.NativeOrcTown'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.UpperTrollCave'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.CrystalDescent'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.Grottos'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.UndergroundGlacier'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.SecretTombOfKings'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.DeepGoblinTown'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.RiverTrollCave'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.DarkestDeeps'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.EasternBastion'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.UpperHalls'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.DwarrowdelfCity'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.DwarrowdelfRampage'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.DwarrowdelfFortress'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.RedEyeOrcTown'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.GundabadOrcTown'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.ArmoredTrollHoard'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.TheHighway'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.AngryCaverns'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.NorthernMineTown'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.BalrogsNest'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.GhashOrcTown'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:689][476]LogStringTable: Warning: Failed to find string table entry for '/Game/Tech/Data/StringTables/World.World' 'Biomes.Names.ShamblingTrollCave'. Did you forget to add a string table redirector?
+[2023.10.26-20.54.38:731][476]LogGameState: Warning: Manager BP_AIPopulationManager_C at index [5] does not replicate!  This will cause null references on clients.
+[2023.10.26-20.54.38:731][476]LogGameState: Warning: Manager BP_AIBehaviorPointManager_C at index [10] does not replicate!  This will cause null references on clients.
+[2023.10.26-20.54.38:731][476]LogGameState: Warning: Manager BP_AIPatrolManager_C at index [27] does not replicate!  This will cause null references on clients.
+[2023.10.26-20.54.38:732][476]LogStreamableManager: Warning: RequestAsyncLoad called with both valid and null assets, null assets removed from /Game/FX/ArchitectureBreakables/Niagara/NS_Hit_MetalOnStone.NS_Hit_MetalOnStone, /Game/FX/ArchitectureBreakables/Niagara/NS_Hit_Wood_1.NS_Hit_Wood_1, /Game/FX/dirt/particles/NS_impact_FootDirt.NS_impact_FootDirt, /Game/FX/CombatFX/Combat_HitFX/StandardHitFX/Niagara/NS_Hit_Metal_1.NS_Hit_Metal_1, /Game/FX/ArchitectureBreakables/Niagara/NS_Hit_Glass_1.NS_Hit_Glass_1, /Game/FX/CombatFX/Combat_HitFX/StandardHitFX/Niagara/NS_Hit_armor_Leather.NS_Hit_armor_Leather, /Game/FX/WaterInteraction/Niagara/NS_CamsWater_Splash1.NS_CamsWater_Splash1, /Game/FX/ArchitectureBreakables/Niagara/NS_Hit_Ceramic.NS_Hit_Ceramic, /Game/FX/ArchitectureBreakables/Niagara/NS_Hit_Gem_1.NS_Hit_Gem_1, /Game/FX/Locomotion_FX/NS_Locomotion_Stone.NS_Locomotion_Stone, /Game/FX/CombatFX/Combat_HitFX/StandardHitFX/Niagara/NS_Hit_armor_Mithril.NS_Hit_armor_Mithril, /Game/FX/EnemyFX/Niagara/NS_SpiderSplat.NS_SpiderSplat, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Bludgeon_Dwarf.NS_DamageType_Bludgeon_Dwarf, /Game/FX/CombatFX/Combat_HitFX/HitEffectiveness_FX/Niagara/NS_IneffectiveHit.NS_IneffectiveHit, , /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Slashing_Dwarf.NS_DamageType_Slashing_Dwarf, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Slashing_Orc.NS_DamageType_Slashing_Orc, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Slashing_Beast.NS_DamageType_Slashing_Beast, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Bludgeon_Orc.NS_DamageType_Bludgeon_Orc, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Bludgeon_Beast.NS_DamageType_Bludgeon_Beast, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Pierce_Dwarf.NS_DamageType_Pierce_Dwarf, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Pierce_Orc.NS_DamageType_Pierce_Orc, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Pierce_Beast.NS_DamageType_Pierce_Beast, /Game/FX/CombatFX/Unique_Attacks/Niagara/NS_AntiDragonBurst.NS_AntiDragonBurst, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Cold.NS_DamageType_Cold, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/BPs/BP_HitLight_Ice.BP_HitLight_Ice_C, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Corrosive.NS_DamageType_Corrosive, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Fire.NS_DamageType_Fire, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/BPs/BP_HitLight_Fire.BP_HitLight_Fire_C, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Light.NS_DamageType_Light, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/BPs/BP_HitLight_LightAttk.BP_HitLight_LightAttk_C, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Poison.NS_DamageType_Poison, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Shadow.NS_DamageType_Shadow, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/BPs/BP_HitLight_Shadow.BP_HitLight_Shadow_C, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/Niagara/NS_DamageType_Thunder.NS_DamageType_Thunder, /Game/FX/CombatFX/Combat_HitFX/DamageTypes/BPs/BP_HitLight_Thunder.BP_HitLight_Thunder_C, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Stone/Impacts/fx_env_obj_destruction_stone_natural_impact_play.fx_env_obj_destruction_stone_natural_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Wood/Impacts/fx_env_obj_destruction_wood_hard_impact_play.fx_env_obj_destruction_wood_hard_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/fx_plr_wpn_hammerimpact_play.fx_plr_wpn_hammerimpact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Bone/Impacts/fx_env_obj_destruction_bone_impact_play.fx_env_obj_destruction_bone_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Ceramic/Impacts/fx_env_obj_destruction_ceramic_impact_play.fx_env_obj_destruction_ceramic_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Stone/Impacts/fx_env_obj_destruction_stone_brick_impact_play.fx_env_obj_destruction_stone_brick_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Stone/Impacts/fx_env_obj_destruction_stone_worked_impact_play.fx_env_obj_destruction_stone_worked_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Wood/Impacts/fx_env_obj_destruction_wood_rotting_impact_play.fx_env_obj_destruction_wood_rotting_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Wood/Impacts/fx_env_obj_destruction_wood_heavy_impact_play.fx_env_obj_destruction_wood_heavy_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Wood/Impacts/fx_env_obj_destruction_wood_tree_impact_play.fx_env_obj_destruction_wood_tree_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Mushroom/Impacts/fx_env_obj_destruction_mushroom_impact_play.fx_env_obj_destruction_mushroom_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Dung/Impacts/fx_env_obj_breakable_dung_impact_play.fx_env_obj_breakable_dung_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Building/fx_plr_bld_treasure_diggin_pickaxe.fx_plr_bld_treasure_diggin_pickaxe, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/1st_Pass/fx_env_obj_destruction_stone_heavy_play.fx_env_obj_destruction_stone_heavy_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/1st_Pass/fx_env_obj_destruction_wood_heavy_play.fx_env_obj_destruction_wood_heavy_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Stone/Impacts/fx_env_obj_destruction_stone_natural_impact_heavy_play.fx_env_obj_destruction_stone_natural_impact_heavy_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Stone/Impacts/fx_env_obj_destruction_stone_brick_impact_heavy_play.fx_env_obj_destruction_stone_brick_impact_heavy_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Stone/Impacts/fx_env_obj_destruction_stone_worked_impact_heavy_play.fx_env_obj_destruction_stone_worked_impact_heavy_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Wood/Impacts/fx_env_obj_destruction_wood_hard_impact_heavy_play.fx_env_obj_destruction_wood_hard_impact_heavy_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Environment/Objects/Object_Destruction/Wood/Impacts/fx_env_obj_destruction_wood_rotting_heavy_impact_play.fx_env_obj_destruction_wood_rotting_heavy_impact_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_ice_play.fx_plr_wpn_elemental_impact_ice_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_corrosive_play.fx_plr_wpn_elemental_impact_corrosive_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_fire_play.fx_plr_wpn_elemental_impact_fire_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_light_play.fx_plr_wpn_elemental_impact_light_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_poison_play.fx_plr_wpn_elemental_impact_poison_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_shadow_play.fx_plr_wpn_elemental_impact_shadow_play, /Game/WwiseAudio/Events/Default_Work_Unit/FX/Player/Weapons/Elementals/fx_plr_wpn_elemental_impact_thunder_play.fx_plr_wpn_elemental_impact_thunder_play!
+[2023.10.26-20.54.38:733][476]LogGameState: Warning: Manager BP_AISpawnManager_C at index [35] does not replicate!  This will cause null references on clients.
+[2023.10.26-20.54.38:746][476]LogMoriaWorldGen: Error: Added virtual merged bubble BB_DarkestDeepsEntrance
+[2023.10.26-20.54.38:746][476]LogMoriaWorldGen: Error: Added virtual merged bubble BB_DarkestDeepsEntrance@90
+[2023.10.26-20.54.38:746][476]LogMoriaWorldGen: Error: Added virtual merged bubble BB_DarkestDeepsEntrance@180
+[2023.10.26-20.54.38:746][476]LogMoriaWorldGen: Error: Added virtual merged bubble BB_DarkestDeepsEntrance@270
+[2023.10.26-20.54.38:808][476]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.39:229][476]LogMoriaWorldGen: Warning: Vein segment from X=2992.271 Y=5949.815 Z=3053.215 to X=2992.271 Y=5949.815 Z=3053.215 is very short
+[2023.10.26-20.54.39:229][476]LogMoriaWorldGen: Warning: Vein segment from X=5714.519 Y=4897.076 Z=3704.130 to X=5714.519 Y=4897.076 Z=3704.130 is very short
+[2023.10.26-20.54.39:229][476]LogMoriaWorldGen: Warning: Vein segment from X=4302.394 Y=11914.260 Z=5789.732 to X=4302.394 Y=11914.260 Z=5789.732 is very short
+[2023.10.26-20.54.39:229][476]LogMoriaWorldGen: Warning: Vein segment from X=5036.301 Y=12029.146 Z=6020.659 to X=5036.301 Y=12029.146 Z=6020.659 is very short
+[2023.10.26-20.54.39:231][476]LogMoriaWorldGen: Error: Ore vein in Bubble-26_20_11-BB_DwarfHall1_2147480008 patch 0 had no ore allocated; defaulting to 1 Properties_Iron.
+[2023.10.26-20.54.39:231][476]LogMoriaWorldGen: Error: Ore vein in Bubble-26_20_11-BB_DwarfHall1_2147480008 patch 1 had no ore allocated; defaulting to 1 Properties_Iron.
+[2023.10.26-20.54.39:231][476]LogTemp: Warning: [BlueprintCheat] Cheat name='Jump To Balrog’s Lair' already exists for path='World/Barazinbar/The Well of Shadows'
+[2023.10.26-20.54.39:232][476]LogTemp: Warning: [BlueprintCheat] Cheat name='Jump To ' already exists for path='World/Barazinbar/Durin’s Highway'
+[2023.10.26-20.54.39:235][476]LogMoriaCatalog: Error: No landmark properties were found for the given row and zone combination! Waypoint will not place.
+[2023.10.26-20.54.39:236][476]LogMoriaCatalog: Error: No landmark properties were found for the given row and zone combination! Waypoint will not place.
+[2023.10.26-20.54.39:236][476]LogMoriaCatalog: Error: No landmark properties were found for the given row and zone combination! Waypoint will not place.
+[2023.10.26-20.54.39:300][477]LogMoriaBreadcrumbs: Error: A breadcrumb for [Category='UI.Goals.PlayerJourney', Name='Goal.2-1_Aftermath_1'] has already been recorded. Breadcrumbs must be uniquely identifiable.
+[2023.10.26-20.54.39:300][477]LogMoriaBreadcrumbs: Error: A breadcrumb for [Category='UI.Goals.PlayerJourney', Name='Goal.2-1_Aftermath_2_Raven'] has already been recorded. Breadcrumbs must be uniquely identifiable.
+[2023.10.26-20.54.39:300][477]LogMoriaBreadcrumbs: Error: A breadcrumb for [Category='UI.Goals.PlayerJourney', Name='Goal.2-1_AricTheRaven_2'] has already been recorded. Breadcrumbs must be uniquely identifiable.
+[2023.10.26-20.54.39:300][477]LogMoriaBreadcrumbs: Error: A breadcrumb for [Category='UI.Goals.PlayerJourney', Name='Goal.2-1_DoorsOfDurin_11_TalktoAric'] has already been recorded. Breadcrumbs must be uniquely identifiable.
+[2023.10.26-20.54.39:300][477]LogMoriaBreadcrumbs: Error: A breadcrumb for [Category='UI.Goals.PlayerJourney', Name='Goal.2-1_DoorsOfDurin_10_FindAnotherWay'] has already been recorded. Breadcrumbs must be uniquely identifiable.
+[2023.10.26-20.54.39:300][477]LogConsoleManager: Warning: Console object named 'Mor.Instancing.RebuildTrees' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2023.10.26-20.54.39:300][477]LogConsoleManager: Warning: Console object named 'Mor.Instancing.RebuildTrees' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2023.10.26-20.54.39:300][477]LogConsoleManager: Warning: Console object named 'Mor.Instancing.RebuildTrees' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2023.10.26-20.54.41:872][631]Slate.EnableSyntheticCursorMoves = "true"
+[2023.10.26-20.54.43:121][706]Slate.EnableSyntheticCursorMoves = "false"
+[2023.10.26-20.54.43:762][744]LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Player/BP_FGKMoriaPlayerController: Skipping import FGKCheatsComponent /Script/Moria.Default__MorPlayerController:FGKCheatsComponent, depends on missing native class
+[2023.10.26-20.54.43:813][747]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:     Export 17 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:FGKCheatsComponent
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:         Dep S_BEFORE_C Import    23   /Script/FGK.FGKCheatsComponent
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:         Dep S_BEFORE_C Import    50   /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.54.43:813][747]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:FGKCheatsComponent but it hasn't been created yet.
+[2023.10.26-20.54.43:813][747]LogStreaming: Error: Cannot construct FGKCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-20.54.43:813][747]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:     Export 20 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:MorCheatsComponent
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:         Dep S_BEFORE_C Import    28   /Script/Moria.MorCheatsComponent
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:         Dep S_BEFORE_C Import    80   /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-20.54.43:813][747]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.54.43:813][747]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:MorCheatsComponent but it hasn't been created yet.
+[2023.10.26-20.54.43:813][747]LogStreaming: Error: Cannot construct MorCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-20.54.44:131][765]LogMoriaZGen: Error: No guide mesh actor associated with ProcGuideMesh_SM_Chapter2_WesternTownAftermath
+[2023.10.26-20.54.44:131][765]LogActorComponent: Warning: SetAutoActivate called on component MorViewTrigger /Game/Maps/Chapter2/Cell_1_14_12_1.BB_Chapter2_GameStart:PersistentLevel.BP_DialogueCueSpotSpawner_5.ViewTrigger after construction!
+[2023.10.26-20.54.44:695][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle_C_1) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:695][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle_C_2) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:695][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle_C_4) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:695][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle_C_5) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:695][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle_C_8) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:695][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle3) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:695][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle6) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:695][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle7) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:695][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle12) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:695][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle14) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:696][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle10) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:696][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle11) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:696][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle13) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:696][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle15) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:696][799]LogInventory: Warning: Owner(BP_Flora_MushroomReceptacle16) Invalid add: 0 of BP_Mushroom_C
+[2023.10.26-20.54.44:696][799]LogMoriaHordes: Error: A nullptr character was sent as the EventTriggerer for an AwarenessEvent of Type: Building
+[2023.10.26-20.54.44:697][799]LogMoriaHordes: Error: A nullptr character was sent as the EventTriggerer for an AwarenessEvent of Type: Building
+[2023.10.26-20.54.44:697][799]LogMoriaHordes: Error: A nullptr character was sent as the EventTriggerer for an AwarenessEvent of Type: Building
+[2023.10.26-20.54.44:697][799]LogMoriaHordes: Error: A nullptr character was sent as the EventTriggerer for an AwarenessEvent of Type: Building
+[2023.10.26-20.54.46:280][892]LogAbilitySystem: Warning: /Game/Character/Shared/Effects/Survival/GE_Despair.Default__GE_Despair_C is periodic but also applies GameplayEffects to its target. GameplayEffects will only be applied once, not every period.
+[2023.10.26-20.54.46:288][892]LogMoriaSaveLoad: Warning: FMorSaveDataRuntimeActorsStore::RestoreActor called on an actor record 'BP_FGKDwarf_C_2147478948' that already has a valid owner.
+[2023.10.26-20.54.46:288][892]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::BodyMeshes Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.54.46:288][892]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_Bodies.DT_CC_Bodies'.
+[2023.10.26-20.54.46:288][892]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::HeadMeshes Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.54.46:288][892]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_Heads.DT_CC_Heads'.
+[2023.10.26-20.54.46:288][892]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::ScarTextures Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.54.46:288][892]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_ScarTextures.DT_CC_ScarTextures'.
+[2023.10.26-20.54.46:288][892]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::TattooTextures Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.54.46:288][892]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_TattooTextures.DT_CC_TattooTextures'.
+[2023.10.26-20.54.46:288][892]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::BeardMeshes Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.54.46:288][892]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_Beards.DT_CC_Beards'.
+[2023.10.26-20.54.46:288][892]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::HairMeshes Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.54.46:288][892]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_Hair.DT_CC_Hair'.
+[2023.10.26-20.54.46:288][892]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::Origins Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.54.46:288][892]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_Origins.DT_CC_Origins'.
+[2023.10.26-20.54.46:288][892]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::Crafts Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.54.46:288][892]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_Crafts.DT_CC_Crafts'.
+[2023.10.26-20.54.46:288][892]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::BackpackMeshes Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.54.46:288][892]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_Backpacks.DT_CC_Backpacks'.
+[2023.10.26-20.54.46:288][892]LogMoriaCharacterCreation: Warning: Null/Malformed ECustomizationTable::Voices Row Handle Set As Current, Reverting to 'Empty' or First Row in DT
+[2023.10.26-20.54.46:288][892]LogDataTable: Warning: UDataTable::FindRow : 'Customization Manager GetRowFromHandle Get 'Empty' Row' requested row 'Empty' not in DataTable '/Game/Character/Shared/CharacterCreator/DataTables/Dwarf/DT_CC_Voices.DT_CC_Voices'.
+[2023.10.26-20.54.46:357][892]LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Player/BP_FGKMoriaPlayerController: Skipping import FGKCheatsComponent /Script/Moria.Default__MorPlayerController:FGKCheatsComponent, depends on missing native class
+[2023.10.26-20.54.46:357][892]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-20.54.46:357][892]LogStreaming: Error:     Export 17 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:FGKCheatsComponent
+[2023.10.26-20.54.46:357][892]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-20.54.46:357][892]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.54.46:357][892]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-20.54.46:357][892]LogStreaming: Error:         Dep S_BEFORE_C Import    23   /Script/FGK.FGKCheatsComponent
+[2023.10.26-20.54.46:357][892]LogStreaming: Error:         Dep S_BEFORE_C Import    50   /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-20.54.46:357][892]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.54.46:357][892]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:FGKCheatsComponent but it hasn't been created yet.
+[2023.10.26-20.54.46:357][892]LogStreaming: Error: Cannot construct FGKCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:FGKCheatsComponent
+[2023.10.26-20.54.46:358][892]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2023.10.26-20.54.46:358][892]LogStreaming: Error:     Export 20 /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C:MorCheatsComponent
+[2023.10.26-20.54.46:358][892]LogStreaming: Error:     Linker is ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset
+[2023.10.26-20.54.46:358][892]LogStreaming: Error:         Dep S_BEFORE_S Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.54.46:358][892]LogStreaming: Error:         Dep C_BEFORE_S Import    82   /Script/Moria.Default__MorPlayerController
+[2023.10.26-20.54.46:358][892]LogStreaming: Error:         Dep S_BEFORE_C Import    28   /Script/Moria.MorCheatsComponent
+[2023.10.26-20.54.46:358][892]LogStreaming: Error:         Dep S_BEFORE_C Import    80   /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-20.54.46:358][892]LogStreaming: Error:         Dep C_BEFORE_C Export    14    /Game/Player/BP_FGKMoriaPlayerController.Default__BP_FGKMoriaPlayerController_C     (class BP_FGKMoriaPlayerController_C)
+[2023.10.26-20.54.46:358][892]LogStreaming: Error: Missing Dependency, request for /Script/Moria.Default__MorPlayerController:MorCheatsComponent but it hasn't been created yet.
+[2023.10.26-20.54.46:358][892]LogStreaming: Error: Cannot construct MorCheatsComponent in ../../../Moria/Content/Player/BP_FGKMoriaPlayerController.uasset because we could not find its template /Script/Moria.Default__MorPlayerController:MorCheatsComponent
+[2023.10.26-20.54.46:358][892]Command not recognized: DisableAllScreenMessages
+[2023.10.26-20.54.46:358][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/UI/Shared/UI_WBP_Inventory_ActionBar_Item.UI_WBP_Inventory_ActionBar_Item_C:ExecuteUbergraph_UI_WBP_Inventory_ActionBar_Item'!
+[2023.10.26-20.54.46:359][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/UI/Shared/UI_WBP_Inventory_ActionBar_Item.UI_WBP_Inventory_ActionBar_Item_C:ExecuteUbergraph_UI_WBP_Inventory_ActionBar_Item'!
+[2023.10.26-20.54.46:359][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/UI/Shared/UI_WBP_Inventory_ActionBar_Item.UI_WBP_Inventory_ActionBar_Item_C:ExecuteUbergraph_UI_WBP_Inventory_ActionBar_Item'!
+[2023.10.26-20.54.46:359][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/UI/Shared/UI_WBP_Inventory_ActionBar_Item.UI_WBP_Inventory_ActionBar_Item_C:ExecuteUbergraph_UI_WBP_Inventory_ActionBar_Item'!
+[2023.10.26-20.54.46:359][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/UI/Shared/UI_WBP_Inventory_ActionBar_Item.UI_WBP_Inventory_ActionBar_Item_C:ExecuteUbergraph_UI_WBP_Inventory_ActionBar_Item'!
+[2023.10.26-20.54.46:360][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/UI/Shared/UI_WBP_Inventory_ActionBar_Item.UI_WBP_Inventory_ActionBar_Item_C:ExecuteUbergraph_UI_WBP_Inventory_ActionBar_Item'!
+[2023.10.26-20.54.46:360][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/UI/Shared/UI_WBP_Inventory_ActionBar_Item.UI_WBP_Inventory_ActionBar_Item_C:ExecuteUbergraph_UI_WBP_Inventory_ActionBar_Item'!
+[2023.10.26-20.54.46:360][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/UI/Shared/UI_WBP_Inventory_ActionBar_Item.UI_WBP_Inventory_ActionBar_Item_C:ExecuteUbergraph_UI_WBP_Inventory_ActionBar_Item'!
+[2023.10.26-20.54.46:360][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/UI/Shared/UI_WBP_Inventory_ActionBar_Item.UI_WBP_Inventory_ActionBar_Item_C:ExecuteUbergraph_UI_WBP_Inventory_ActionBar_Item'!
+[2023.10.26-20.54.46:361][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/UI/Shared/UI_WBP_Inventory_ActionBar_Item.UI_WBP_Inventory_ActionBar_Item_C:ExecuteUbergraph_UI_WBP_Inventory_ActionBar_Item'!
+[2023.10.26-20.54.46:361][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/UI/Shared/UI_WBP_Inventory_ActionBar_Item.UI_WBP_Inventory_ActionBar_Item_C:ExecuteUbergraph_UI_WBP_Inventory_ActionBar_Item'!
+[2023.10.26-20.54.46:361][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/UI/Shared/UI_WBP_Inventory_ActionBar_Item.UI_WBP_Inventory_ActionBar_Item_C:ExecuteUbergraph_UI_WBP_Inventory_ActionBar_Item'!
+[2023.10.26-20.54.46:486][892]LogMoriaCharacterCreation: Warning: SetCustomizationsInternal: different customization is set while this loads, ignoring callback.
+[2023.10.26-20.54.46:776][893]LogMoriaBreadcrumbs: Warning: UnbindFromCountsChangedEvent(UI.Construction.Category.Crafting) failed: EventListener was not found
+[2023.10.26-20.54.46:776][893]LogMoriaBreadcrumbs: Warning: UnbindFromCountsChangedEvent(UI.Construction.Category.Base) failed: EventListener was not found
+[2023.10.26-20.54.46:776][893]LogMoriaBreadcrumbs: Warning: UnbindFromCountsChangedEvent(UI.Construction.Category.Crude) failed: EventListener was not found
+[2023.10.26-20.54.46:776][893]LogMoriaBreadcrumbs: Warning: UnbindFromCountsChangedEvent(UI.Construction.Category.Advanced) failed: EventListener was not found
+[2023.10.26-20.54.46:776][893]LogMoriaBreadcrumbs: Warning: UnbindFromCountsChangedEvent(UI.Construction.Category.Elder) failed: EventListener was not found
+[2023.10.26-20.54.54:657][183]Log file closed, 10/26/23 23:54:54
